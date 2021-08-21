@@ -7,11 +7,11 @@ const App = () => {
   return (
     <>
       <Button variant="contained" color="primary">
-        Hello World
+        Open Data PDX
       </Button>
       <Resources />
     </>
   );
 };
-ReactDOM.render(<App />, document.querySelector('#root'));
+
 export default App;
